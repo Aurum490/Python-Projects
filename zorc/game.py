@@ -337,7 +337,7 @@ text_pointer.up()
 text_pointer.speed(0)
 text_pointer.pensize(5)
 
-draw_text(fixed_pointer, "ZORK by Jai", 1.5, 2.6, 30, "black")
+draw_text(fixed_pointer, "ZORK by Aurum", 1.5, 2.6, 30, "black")
 draw_rect(fixed_pointer, 0.6, 0.5, 2.4, 2.5, "white", "#6e410a", 0.05)
 
 draw_rect(fixed_pointer, 0.6, 0.27, 2.4, 0.48, "#a35718", "#733f14", 0.02)
